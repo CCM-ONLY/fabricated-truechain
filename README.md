@@ -1,3 +1,6 @@
+## TrueChain Test Net & Infrastructure Dev on Fabric
+
+This repo is a fork from Fabric project that is used to develop TrueChain infrastructure. A test net is set up based on this infrastructure together with TrueChain consensus and TrueChain's Steller project.
 
 **Note:** This is a **read-only mirror** of the formal [Gerrit](https://gerrit.hyperledger.org/r/#/admin/projects/fabric) repository,
 where active development is ongoing. Issue tracking is handled in [Jira](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=5&view=planning)
